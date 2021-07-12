@@ -1,0 +1,21 @@
+.input-group-append{
+    display: flex;
+     flex-flow:  nowrap;
+justify-content: center;
+padding-top: 10px;
+}
+.form-control{
+
+    width: 70%;
+border-style: none;
+
+text-align: center;
+ 
+}
+.btn{
+font-weight: bold;
+text-align: center;
+color:white;
+border-style: none;
+}
+ 

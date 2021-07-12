@@ -1,0 +1,14 @@
+.container{
+    background: rgb(119,93,94);
+    background: linear-gradient(90deg, rgba(119,93,94,1) 20%, rgba(99,73,95,0.6138830532212884) 47%, rgba(207,194,187,1) 100%);
+    max-width: 750px;
+    border-radius: 10px;
+    margin: auto;
+
+margin-top: 50px;}
+ .btns{
+      display: flex;
+     flex-flow: wrap;
+     flex-wrap: nowrap;
+     justify-content: center;
+  }
